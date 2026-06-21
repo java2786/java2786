@@ -54,16 +54,16 @@ Over the years, I have worked with enterprise organizations, engineering teams, 
 - Maven
 - MySQL
 - MongoDB
+- Node.js
 
 ## Frontend
 
+- Angular
 - React
-- Node.js
 - JavaScript
 - TypeScript
 - HTML
 - CSS
-- Angular
 
 ## Cloud & DevOps
 
