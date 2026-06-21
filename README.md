@@ -24,7 +24,9 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins)
+<!--
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+--/>
 ![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python)
 ![Power_BI](https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi)
 
@@ -46,7 +48,9 @@
 - ⭐ AWS CI/CD Pipeline
 - ⭐ Docker Deployment
 - ⭐ Jenkins Automation
+<!--
 - ⭐ Kubernetes Examples
+--/>
 
 ### Full Stack Development
 
